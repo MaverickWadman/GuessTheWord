@@ -1,0 +1,47 @@
+[
+  {
+    "type": "easy",
+    "set": [
+      "ace",
+      "bye",
+      "cat",
+      "dog",
+      "elf",
+      "fun",
+      "gas",
+      "hit",
+      "ice",
+      "ram"
+    ]
+  },
+  {
+    "type": "medium",
+    "set": [
+      "also",
+      "bend",
+      "card",
+      "dove",
+      "each",
+      "fine",
+      "gold",
+      "hear",
+      "iron",
+      "tide"
+    ]
+  },
+  {
+    "type": "difficult",
+    "set": [
+      "admit",
+      "brain",
+      "could",
+      "drink",
+      "elite",
+      "focus",
+      "grace",
+      "hence",
+      "image",
+      "yield"
+    ]
+  }
+]
